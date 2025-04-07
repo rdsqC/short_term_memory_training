@@ -1,0 +1,17 @@
+html,body {
+  font-size: 30px;
+  padding: 0;
+  width: 100%;
+}
+
+body {
+  overflow-wrap: break-word;
+  white-space: break-all;
+  font-family: consolas;
+  letter-spacing: 0.1rem;
+  line-height: 1.5rem;
+}
+
+.main_text {
+  margin: 2rem;
+}
